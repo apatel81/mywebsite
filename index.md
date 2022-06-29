@@ -30,6 +30,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 [This is a test](https://github.com/apatel81/NFL-Player-Salaries)
 
+[Here is a link to my 2022 NFL Season Predictions] (https://github.com/apatel81/NFL-Win-Predictions/blob/c14a6be2d47857e904396e974390c4ef32ca1a04/STAT%20404%20Project%20Report.pdf))
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apatel81/mywebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
