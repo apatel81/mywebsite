@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 [This is a test](https://github.com/apatel81/NFL-Player-Salaries)
 
-[Here is a link to my 2022 NFL Season Predictions] (https://github.com/apatel81/NFL-Win-Predictions/blob/c14a6be2d47857e904396e974390c4ef32ca1a04/STAT%20404%20Project%20Report.pdf))
+[Here is a link to my 2022 NFL Season Predictions](https://github.com/apatel81/NFL-Win-Predictions/blob/c14a6be2d47857e904396e974390c4ef32ca1a04/STAT%20404%20Project%20Report.pdf)
 
 ### Jekyll Themes
 
